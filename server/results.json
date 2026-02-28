@@ -1,0 +1,22 @@
+[
+  {
+    "text": "I was fired from my office today. Feeling very angry",
+    "emotion_type": "HOSTILITY",
+    "conf": 0.95
+  },
+  {
+    "text": "I feel incredibly blessed right now",
+    "emotion_type": "APPRECIATION",
+    "conf": 1
+  },
+  {
+    "text": "I feel like I could dance for joy",
+    "emotion_type": "PEAK_JOY",
+    "conf": 1
+  },
+  {
+    "text": "I am so done with all this pressure",
+    "emotion_type": "DEJECTION",
+    "conf": 0.9
+  }
+]

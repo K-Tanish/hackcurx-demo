@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Database
+database.sqlite
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs
+*.log
+err.txt
+test.log
+test2.log
+
+# Build output
+dist
+build
+out
+.next
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
